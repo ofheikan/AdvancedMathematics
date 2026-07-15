@@ -1,3 +1,13 @@
 # AdvancedMathematics
 高数的学习笔记，对应的课本是高等数学（第二册）（第五版）物理类专业用 四川大学数学学院高等数学教研室 编
-[笔记入口]<https://github.com/ofheikan/AdvancedMathematics/blob/main/mathematics(2).md>
+
+高数笔记从这里看→[笔记入口](<https://github.com/ofheikan/AdvancedMathematics/blob/main/mathematics(2).md>)
+目前笔记还在编写中，所以回有不完整的地方，然后我也在努力把asset中的pdf和图片传到GitHub上来
+如果笔记中的内容有不严谨的地方的话可以拉issue
+谢谢理解和支持
+
+> [!Caution]
+> 请核对课本的信息:
+> *高等数学（第二册）（第五版）物理类专业用 四川大学数学学院高等数学教研室 编 高等教育出版社 ISBN 978-7-04-053447-4*
+> 此次编辑中参考的书籍：*一九九七年研究生入学考试数学复习指南 主编陈文灯教授 中国经济出版社 ISBN：7-5017-3778-9*
+> > 这书确实有亿点老了
