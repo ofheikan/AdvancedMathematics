@@ -66,8 +66,8 @@
 > 1. 级点$O$在区域$D$的边界曲线之外时
 > 
 > <div style="display: flex; gap: 10px; justify-content: center;">
->   <img src="assets/image_WirjSx.png" style="width: 48%; height: auto;">
->   <img src="assets/image_LpSdhq.png" style="width: 48%; height: auto;">
+>   <img src="https://github.com/ofheikan/image/blob/main/image_WirjSx.png" style="width: 48%; height: auto;">
+>   <img src="https://github.com/ofheikan/image/blob/main/image_LpSdhq.png" style="width: 48%; height: auto;">
 > </div>
 > 
 > 区域特征如图
@@ -78,7 +78,7 @@
 > $$\iint\limits_Df(\rho\cos\theta,\rho\sin\theta)\rho d\rho d\theta=\int_{\alpha}^{\beta}d\theta\int_{\varphi_1(\theta)}^{\varphi_2(\theta)}f(\rho\cos\theta,\rho\sin\theta)\rho d\rho$$
 > 2.极点$O$刚好在区域$D$的边界曲线上时
 > <div style="display:flex;justify-content:center">
->  <img src="\AAA笔记\advanced mathematics\assets\image_6ObX5D.png" style="width:54%;height:auto;">
+>  <img src="https://github.com/ofheikan/image/blob/main/image_6ObX5D.png" style="width:54%;height:auto;">
 ></div>
 >
 > $$\begin{cases}
@@ -87,7 +87,7 @@
 > \end{cases}$$
 > $$\iint\limits_D f(\rho\cos\theta,\rho\sin\theta)\rho d\rho d\theta=\int_{\alpha}^{\beta}d\theta\int_{0}^{\varphi(\theta)}f(\rho\cos\theta,\rho\sin\theta)\rho d\rho$$
 > 3. 极点$O$在区域$D$的边界曲线内时
-> <div style="display:flex;justify-content:center"><img src="\AAA笔记\advanced mathematics\assets\image_xDCC8J.png" style="width:48%"></img></div>
+> <div style="display:flex;justify-content:center"><img src="https://github.com/ofheikan/image/blob/main/image_xDCC8J.png" style="width:48%"></img></div>
 >
 > $$\begin{cases}
 > \text{$0\leq\theta\leq2\pi$} \\
@@ -170,7 +170,7 @@
 ###### 例题2 y和x多种复合参数
 计算$\oint_L\sqrt{y}ds,$其中$L$为抛物线$y=x^2,$直线$x=1$及$x$轴所围成的曲边三角形的整个边界
 
-<image style="width:30%;margin-bottom:20px;" src="\AAA笔记\advanced mathematics\assets\image_jkYVGx.png">
+<image style="width:30%;margin-bottom:20px;" src="https://github.com/ofheikan/image/blob/main/image_jkYVGx.png">
 
 
 > 因为是闭合的三角形，所以要分成$OB,BA,AO$三段计算
@@ -468,7 +468,7 @@ $$设D为平面区域$$
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
   <!-- 第一个图片单元 -->
   <div style="text-align: center;">
-    <img src="\AAA笔记\advanced mathematics\assets\image_NnH--_.png"
+    <img src="https://github.com/ofheikan/image/blob/main/image_NnH--_.png"
          style="width: 200px; height: auto; display: block; margin: 0 auto;" />
     <p style="font-size:20px; font-family:'Noto Serif SC', serif; margin-top: 8px;">
       单连通区域:<b>没有洞</b>
@@ -477,7 +477,7 @@ $$设D为平面区域$$
 
   <!-- 第二个图片单元 -->
   <div style="text-align: center;">
-    <img src="D:\AAA笔记\advanced mathematics\assets\image_M18WNM.png"
+    <img src="https://github.com/ofheikan/image/blob/main/image_M18WNM.png"
          style="width: 200px; height: auto; display: block; margin: 0 auto;" />
     <p style="font-size:20px; font-family:'Noto Serif SC', serif; margin-top: 8px;">
       复连通区域:<b>有洞</b>
