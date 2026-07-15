@@ -4,9 +4,13 @@
 <div style="margin-bottom:40px;font-family:Noto Sans SC;">高数的学习笔记📝，<br>对应的课本是<u>高等数学（第二册）（第五版）物理类专业用 四川大学数学学院高等数学教研室 编</u></div>
 
 高数笔记从这里看→[笔记入口](<https://github.com/ofheikan/AdvancedMathematics/blob/main/mathematics(2).md>)
-目前笔记还在编写中，所以回有不完整的地方，然后我也在努力把asset中的pdf和图片传到GitHub上来
-如果笔记中的内容有不严谨的地方的话可以拉issue
-谢谢理解和支持
+<div align="center">
+   <font face="Noto Serif SC">
+<br>目前笔记还在编写中，所以会有不完整的地方，然后我也在努力把asset中的pdf和图片传到GitHub上来
+<br>如果笔记中的内容有不严谨的地方的话可以拉issue
+<br>谢谢理解和支持</div>
+   </font>
+</div>
 
 >[!Note]
 >然后一定要注意一下自己的markdown解析器中是否支持这种左右两边只有一个$的math公式
