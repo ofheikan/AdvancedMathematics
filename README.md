@@ -1,5 +1,7 @@
 # AdvancedMathematics
-高数的学习笔记，对应的课本是高等数学（第二册）（第五版）物理类专业用 四川大学数学学院高等数学教研室 编
+[![license](https://img.shields.io/badge/license-MIT-1677ff.svg)](./LICENSE)
+
+<div style="margin-bottom:40px;font-family:Noto Sans SC;">高数的学习笔记📝，<br>对应的课本是<u>高等数学（第二册）（第五版）物理类专业用 四川大学数学学院高等数学教研室 编</u></div>
 
 高数笔记从这里看→[笔记入口](<https://github.com/ofheikan/AdvancedMathematics/blob/main/mathematics(2).md>)
 目前笔记还在编写中，所以回有不完整的地方，然后我也在努力把asset中的pdf和图片传到GitHub上来
@@ -10,6 +12,10 @@
 >然后一定要注意一下自己的markdown解析器中是否支持这种左右两边只有一个$的math公式
 >`$format like this$`
 >* 因为有的只支持这种：`$$在公式的两边有两个美元符号的$$`
+
+> [!Tip]
+>* [推荐的markdown查看器\editor](<https://github.com/nlbwqmz/wj-markdown-editor>)
+>* [便利地在GitHub中查看katex公式](<>)
 
 > [!Caution]
 > * 请核对课本的信息:
